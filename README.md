@@ -24,12 +24,13 @@
 ![Latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yaenday/yaenday/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yaenday/yaenday/output/github-contribution-grid-snake.svg">
   <img src="https://raw.githubusercontent.com/yaenday/yaenday/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 </picture>
-
+-->
 
 <!--
 **Yaenday/Yaenday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
