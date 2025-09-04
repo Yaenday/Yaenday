@@ -10,9 +10,9 @@
 
 :tangerine: **About Me | 关于我**
 
-- A fourth-year undergraduate student
+- A fourth-year undergraduate student, Peking University
 - :mailbox: E-mail: changxinhai@stu.pku.edu.cn
-- :custard: Personal Website: [Xinhai Chang|常欣海](https://yaenday.github.io)
+- :custard: Personal Website: [Xinhai Chang | 常欣海](https://yaenday.github.io)
 
 :tea: **Skills | 技能**
 
