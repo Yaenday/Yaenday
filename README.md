@@ -12,7 +12,7 @@
 
 - A fourth-year undergraduate student, Peking University
 - :mailbox: E-mail: changxinhai@stu.pku.edu.cn
-- :custard: Personal Website: [Xinhai Chang | 常欣海](https://yaenday.github.io)
+- :custard: Personal Website: [Xinhai Chang | 常欣海](https://chang-xinhai.github.io)
 
 :tea: **Skills | 技能**
 
